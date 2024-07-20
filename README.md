@@ -1,4 +1,4 @@
-# This is a ML project which uses Linear Regression to predict the car Purchae Amount.
+# This is a ML project which uses Linear Regression to predict the car Purchse Amount.
 # Following is the problem statement
 
 You are working as a car salesman and you would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes:
